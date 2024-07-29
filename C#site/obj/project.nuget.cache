@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dxlb1BWxzwUPjuVrPD3VXu5XHXm8knEIsx8n20ZF3KahLut/rxe/2AJmNnQ4liWbN2uXa/sarFfnQc8rwTAIhA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\79897\\Desktop\\practika\\serversite\\BlazorApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\79897\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\79897\\.nuget\\packages\\npgsql\\6.0.11\\npgsql.6.0.11.nupkg.sha512",
+    "C:\\Users\\79897\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.0\\system.configuration.configurationmanager.6.0.0.nupkg.sha512",
+    "C:\\Users\\79897\\.nuget\\packages\\system.directoryservices\\6.0.0\\system.directoryservices.6.0.0.nupkg.sha512",
+    "C:\\Users\\79897\\.nuget\\packages\\system.directoryservices.accountmanagement\\6.0.0\\system.directoryservices.accountmanagement.6.0.0.nupkg.sha512",
+    "C:\\Users\\79897\\.nuget\\packages\\system.directoryservices.protocols\\6.0.0\\system.directoryservices.protocols.6.0.0.nupkg.sha512",
+    "C:\\Users\\79897\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\79897\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\79897\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\79897\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "C:\\Users\\79897\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
+    "C:\\Users\\79897\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
